@@ -1,0 +1,23 @@
+.pt3{
+    background-color: rgb(255, 255, 255);
+    height: 600px;
+    width: 400px;
+    margin-left: 40px;
+    border-color: rgb(0, 0, 0);
+    border: 3px;
+    border-style: solid;
+    float: left;
+}
+button{
+    margin-top: 10px;
+    margin-left: 150px;
+}
+.new{
+    margin-top: 10px;
+    margin-left: 10px;
+} 
+.im{
+    margin-top: 20px;
+    margin-left: 90px;
+    overflow: hidden;
+}
